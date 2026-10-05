@@ -7,9 +7,9 @@
 export const equipo = [
   { nombre: "Andrey Garcia Bastian", rol: "Líder de proyecto", github: "TheFrisk777" },
 
-  // --- Integrante 1 ---
+  { nombre: "Luis Sosa Vega", rol: "Desarrollador Backend", github: "Sosa1716" },
 
-  // --- Integrante 2 ---
+  { nombre: "Hector Zaia Juarez Simbron", rol: "Desarrollador Backend", github: "hectordead34" },
 
   // --- Integrante 3 ---
 
