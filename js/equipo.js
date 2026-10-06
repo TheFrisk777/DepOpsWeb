@@ -11,7 +11,7 @@ export const equipo = [
 
   { nombre: "Hector Zaia Juarez Simbron", rol: "Desarrollador Backend", github: "hectordead34" },
 
-  // --- Integrante 3 ---
+  { nombre: "Pepito Perenganito Sultanito", rol: "Integrante", github: "20Andrey02" },
 
   // --- Integrante 4 ---
 ];
