@@ -14,5 +14,5 @@ export const equipo = [
   { nombre: "Luis Sosa Vega", rol: "Desarrollador Backend", github: "Sosa1716" },
 
   // --- Integrante 4 ---
-  { nombre: "Prueba Roto", rol: "QA", github: "20 Andrey 02" },
+  { nombre: "Prueba Roto", rol: "QA", github: "20Andrey02" },
 ];
